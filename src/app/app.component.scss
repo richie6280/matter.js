@@ -1,0 +1,22 @@
+.wrapper {
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.buttons {
+    position: fixed;
+    top: 2vw;
+    left: 0;
+    
+    button {
+        padding: .5vw 1vw;
+    }
+}
+
+// .demo {
+//     background-color: lightgray;
+//     border: 4 dotted black;
+// }
